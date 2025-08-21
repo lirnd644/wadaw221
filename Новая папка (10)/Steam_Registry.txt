@@ -1,0 +1,14 @@
+Language: russian
+SteamExe: c:/program files (x86)/steam/steam.exe
+SteamPath: c:/program files (x86)/steam
+SuppressAutoRun: 0
+Restart: 0
+StartupModeTmpIsValid: 0
+RunningAppID: 0
+SourceModInstallPath: C:\Program Files (x86)\Steam\steamapps\sourcemods
+AutoLoginUser: sivamaks
+Rate: 30000
+AlreadyRetriedOfflineMode: 0
+LastGameNameUsed: Pick 10 lvl faceit | sigma boy
+StartupModeTmp: 7
+Skin: 
